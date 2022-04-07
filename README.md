@@ -1,3 +1,5 @@
 # My first git repo
 
-Konrad Förstner 
+Konrad U. Förstner, 2022
+
+My very first awesome repo.
